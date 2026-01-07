@@ -1,6 +1,6 @@
 # Quaternary Plots
 
-A Python library for creating beautiful quaternary (tetrahedral) compositional plots using Plotly.
+A Python library for creating quaternary (tetrahedral) compositional plots using Plotly.
 
 ## Installation
 
