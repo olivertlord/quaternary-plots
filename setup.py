@@ -12,7 +12,7 @@ setup(
     description="A Python library for creating quaternary (tetrahedral) compositional plots",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/quaternary-plots",
+    url="https://github.com/olivertlord/quaternary-plots",
     packages=find_packages(exclude=["tests", "examples"]),
     install_requires=[
         "numpy>=1.20.0",
